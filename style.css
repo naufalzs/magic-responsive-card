@@ -21,6 +21,7 @@
 
 .btn-container {
   position: absolute;
+  z-index: 100;
   top: 50%;
   right: 45px;
   display: flex;
@@ -33,7 +34,7 @@
   border: none;
   padding: 10px 16px;
   border-radius: 8px;
-  font-size: 18px;
+  font-size: 16px;
   color: white;
   text-align: center;
   text-transform: capitalize;
